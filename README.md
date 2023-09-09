@@ -1,8 +1,8 @@
-- 👋 Hi, My name is Nomen Ama. 
-- 👀 I’m interested in web and software development.
-- 🌱 I’m currently learning HTML,CSS and JavaScript for front-end development and node.js for back-end development. 
-- 💞️ I’m looking for someone for pair-programming so we can collaborate and share ideas.
-- 📫 I can be reached at justnomen@outlook.com
+- 👋 Hey there! I'm Nomen Ama.
+- 👀 I'm a mid-junior developer and the brains behind kontraktor.my, where we make service magic happen.
+- 🌱 I'm all about that never-ending learning journey.
+- 💞️ Got a cool project in mind? I'm all ears and up for a collaboration. When it comes to getting things done and being an awesome team player, I've got your back!
+- 📫 Reach out to me anytime at justnomen@outlook.com. 📩
 
 <!---
 nomenama/nomenama is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
